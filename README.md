@@ -1,4 +1,4 @@
-# Project Title: Classified Dataset Analysis
+# Classified Dataset Analysis
 
 ## Overview
 
